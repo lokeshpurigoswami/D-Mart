@@ -1,0 +1,88 @@
+/* NAVBAR */
+
+
+#Company-name {
+    color: green;
+
+}
+
+/* Offfcanvas  */
+
+#offcanvasNavbarLabel {
+    color: green;
+}
+
+.offcanvas-body a {
+    color: green !important;
+}
+
+/* Offfcanvas  */
+
+.bx {
+    color: green;
+    font-size: 50pximportant;
+}
+
+/* Navbar End */
+
+
+/* Card */
+
+
+.card {
+
+    border-bottom: 2px solid gray !important;
+    padding: 10px;
+}
+
+/* CARD PRICE  */
+.MRP {
+    text-align: right;
+    text-decoration: line-through;
+}
+
+.price {
+    color: green;
+    text-align: right;
+}
+
+.save-price {
+    color: red;
+    text-align: right;
+}
+
+/* CARD PRICE End */
+/* CARD END */
+
+/* VIEW ALL PRODUCT PAGE  */
+
+.all-product a {
+    font-size: 20px;
+    text-decoration: none;
+    color: green;
+
+}
+
+/*   ALL PRODUCT PAGE End */
+
+
+.hr {
+    margin-top: 0px;
+}
+
+/* Bottom Banners  */
+
+.bt-banner {
+    padding: 0px !important;
+    margin: 0px !important;
+    max-width: 50%;
+}
+
+
+.cat-text {
+    text-align: center;
+    font-size: 13px;
+    ;
+
+
+}
